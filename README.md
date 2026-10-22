@@ -54,5 +54,5 @@ This project taught me that building a website involves more than writing code. 
 
 Taura James
 
-IYF WECAN Academy — Season 12, Week 1
+IYF WECAN Academy - Season 12, Week 1
 
