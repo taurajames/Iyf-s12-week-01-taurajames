@@ -1,6 +1,6 @@
 # Week 1: Web Foundations Portfolio
 
-Welcome to my Week 1 portfolio for the **IYF WECAN Academy Season 12**. This project demonstrates my understanding of HTML, CSS, semantic HTML, accessibility, and GitHub Pages.
+Welcome to my Week 1 portfolio for the **IYF WECAN Academy Season 12**. This project demonstrates my understanding of HTML, CSS, semantic HTML, accessibility and GitHub Pages.
 
 ## Live Demo
 
@@ -48,7 +48,7 @@ See [`devtools-exploration.md`](devtools-exploration.md) for my notes on explori
 
 ## Lessons Learned
 
-This project taught me that building a website involves more than writing code. Clear structure, accessibility, testing, and version control are important parts of web development.
+This project taught me that building a website involves more than writing code. Clear structure, accessibility, testing and version control are important parts of web development.
 
 ## Author
 
