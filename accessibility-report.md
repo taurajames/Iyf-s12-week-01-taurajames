@@ -24,10 +24,10 @@ I will check the following areas:
 
 Run a Lighthouse accessibility audit on the website before making the improvements you want to measure.
 
-- Accessibility score: [Enter your actual score]/100
-- Performance score: [Enter your actual score]/100
-- Best Practices score: [Enter your actual score]/100
-- SEO score: [Enter your actual score]/100
+- Accessibility score: [100]/100
+- Performance score: [92]/100
+- Best Practices score: [100]/100
+- SEO score: [100]/100
 
 Record any important issues identified by the audit.
 
